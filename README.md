@@ -1,15 +1,9 @@
-# Hola! Hi! Hello! Cześć!
+I'm Adam, 19 years old, self-taught software engineer from Poland.
 
-I'm Adam, 18 years old software engineer from Poland. I love system level programming as well as sockets, networking and web development (though I prefer backend really).
+I've been into software development and systems design for over a year at this point, starting with my Lukseh.org project, moving onto freelancing and making my own projects.
 
-I learnt basic JavaScript, C, C++ and PHP in school, though I elevated most of these myself with watching YouTube (shoutout Low Level, Primagen and Daniel Hirsch) and making my own projects.
+During this time I've learnt languages such as Golang, TypeScript, Zig, Rust, C, C# and PHP.
 
-I use VS Code, and I code on Debian most of the time.
+I've learnt databases(PostgreSQL), Cloudflare Workers, Docker, Node.js, CounterStrikeSharp
 
-I also learnt myself Golang, some Zig and tried Rust but failed miserably.
-
-I am open to work together on a project with anyone who has vision.
-
-Checkout (haha funny cause its git command) my repos in the meantime though they're mostly chaos codebases. ^-^
-
-Also have [Forgejo](https://forgejo.lukseh.dev)
+Mostly making projects for my own use, previously tried freelance. If you think your project could interest me, dm me on Discord: lukseh74 (click to copy)
